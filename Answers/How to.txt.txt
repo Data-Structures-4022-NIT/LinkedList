@@ -1,0 +1,3 @@
+put your answers in a folder.
+rename that folder to your student number.
+after finishing assignment, send a pull request to original repo
